@@ -1,3 +1,3 @@
-# goit-markup-hw-06
-HW6
-Adding forms to the webpage
+# goit-markup-hw-07
+HW7
+BEM+SCSS
