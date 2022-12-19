@@ -392,7 +392,7 @@ body {
     align-items: center;
 }
 
-.title-solutions {
+.content__title {
     color: var(--white-background);
     text-align: center;
     display: flex;
@@ -408,7 +408,7 @@ body {
     letter-spacing: 0.06em;
 }
 
-.service-button {
+.content__button {
     color: var(--white-background);
     background-color: var(--blue-accent);
     border-radius: 4px;
@@ -424,15 +424,6 @@ body {
 }
 
 /* Strengths */
-
-/* .section-strengths {
-    width: 1170px;
-    height: 251px;
-    margin-top: 94px;
-    margin-bottom: 94px;
-    margin-left: 215px;
-    margin-right: 215px;
-} */
 
 .strengths-list {
     list-style-type: none;
